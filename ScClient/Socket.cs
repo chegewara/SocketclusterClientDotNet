@@ -312,6 +312,13 @@ namespace ScClient
             return this;
         }
 
+		public void autenticate(string signedAuthToken)
+		{
+			this.emit("#authenticate", signedAuthToken, (name, error, data) =>
+			{
+				_listener.onAuthentication(this, (bool)((JObject)data).GetValue("isAuthenticated"));
+			});
+		}
 
         private object[] getAckObject(string Event,Ackcall ack){
             object [] Object ={Event,ack};

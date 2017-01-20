@@ -1,0 +1,14 @@
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\ScClient.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\ScClient.pdb
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\mscorlib.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\Newtonsoft.Json.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\WebSocket4Net.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\Newtonsoft.Json.xml
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\pl\mscorlib.resources.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\normidna.nlp
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\normnfc.nlp
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\normnfd.nlp
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\normnfkc.nlp
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\bin\Debug\normnfkd.nlp
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\obj\Debug\ScClient.dll
+F:\xamarin\Projects\SocketclusterClientDotNet\SocketclusterClientDotNet\ScClient\obj\Debug\ScClient.pdb
